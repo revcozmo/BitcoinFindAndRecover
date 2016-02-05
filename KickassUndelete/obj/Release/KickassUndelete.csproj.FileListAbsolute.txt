@@ -1,0 +1,10 @@
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\bin\Release\KickassUndelete.dll.config
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\bin\Release\KickassUndelete.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\bin\Release\KickassUndelete.pdb
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\bin\Release\FileSystems.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\bin\Release\FileSystems.pdb
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\obj\Release\KickassUndelete.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\obj\Release\KickassUndelete.Properties.Resources.resources
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\obj\Release\KickassUndelete.csproj.GenerateResource.Cache
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\obj\Release\KickassUndelete.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\KickassUndelete\obj\Release\KickassUndelete.pdb

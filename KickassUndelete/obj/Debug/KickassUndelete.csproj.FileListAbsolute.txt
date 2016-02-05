@@ -1,0 +1,25 @@
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\KickassUndelete.exe.config
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\KickassUndelete.exe
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\KickassUndelete.pdb
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\FileSystems.dll
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\GuiComponents.dll
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\FileSystems.pdb
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\GuiComponents.pdb
+X:\code\C#\Kickass Undelete\KickassUndelete\bin\Debug\GuiComponents.xml
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.csprojResolveAssemblyReference.cache
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.DeletedFileViewer.resources
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.MainForm.resources
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.Properties.Resources.resources
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.csproj.GenerateResource.Cache
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.exe
+X:\code\C#\Kickass Undelete\KickassUndelete\obj\Debug\KickassUndelete.pdb
+X:\code\C#\CryptoFinder\KickassUndelete\bin\Debug\KickassUndelete.dll.config
+X:\code\C#\CryptoFinder\KickassUndelete\bin\Debug\KickassUndelete.dll
+X:\code\C#\CryptoFinder\KickassUndelete\bin\Debug\KickassUndelete.pdb
+X:\code\C#\CryptoFinder\KickassUndelete\bin\Debug\FileSystems.dll
+X:\code\C#\CryptoFinder\KickassUndelete\bin\Debug\FileSystems.pdb
+X:\code\C#\CryptoFinder\KickassUndelete\obj\Debug\KickassUndelete.csprojResolveAssemblyReference.cache
+X:\code\C#\CryptoFinder\KickassUndelete\obj\Debug\KickassUndelete.Properties.Resources.resources
+X:\code\C#\CryptoFinder\KickassUndelete\obj\Debug\KickassUndelete.csproj.GenerateResource.Cache
+X:\code\C#\CryptoFinder\KickassUndelete\obj\Debug\KickassUndelete.dll
+X:\code\C#\CryptoFinder\KickassUndelete\obj\Debug\KickassUndelete.pdb

@@ -1,0 +1,12 @@
+X:\code\C#\Kickass Undelete\FileSystems\bin\Debug\FileSystems.dll
+X:\code\C#\Kickass Undelete\FileSystems\bin\Debug\FileSystems.pdb
+X:\code\C#\Kickass Undelete\FileSystems\bin\Debug\Ionic.Zip.dll
+X:\code\C#\Kickass Undelete\FileSystems\obj\Debug\FileSystems.csprojResolveAssemblyReference.cache
+X:\code\C#\Kickass Undelete\FileSystems\obj\Debug\FileSystems.dll
+X:\code\C#\Kickass Undelete\FileSystems\obj\Debug\FileSystems.pdb
+X:\code\C#\CryptoFinder\FileSystems\bin\Debug\FileSystems.dll
+X:\code\C#\CryptoFinder\FileSystems\bin\Debug\FileSystems.pdb
+X:\code\C#\CryptoFinder\FileSystems\bin\Debug\Ionic.Zip.dll
+X:\code\C#\CryptoFinder\FileSystems\obj\Debug\FileSystems.dll
+X:\code\C#\CryptoFinder\FileSystems\obj\Debug\FileSystems.pdb
+X:\code\C#\CryptoFinder\FileSystems\obj\Debug\FileSystems.csprojResolveAssemblyReference.cache
