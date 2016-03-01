@@ -2,6 +2,7 @@
 Supports all desktop wallets and a few mobile. Should work for most altcoins wallets, forked from the ones listed below.
 
 Automatizes the searching for wallet files, in files existing and deleted.
+It's able to recover partially corrupted MultibitHD wallets.
 It also allows the user to create a password list from whatever fragments he or she remembers, to try to regain access with a lost password.
 The recovered passwords are saved encrypted using AES.
 
