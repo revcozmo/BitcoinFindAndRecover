@@ -1,0 +1,11 @@
+X:\code\C#\CryptoFinder\DriveComboBox\bin\Release\DriveComboBox.dll
+X:\code\C#\CryptoFinder\DriveComboBox\obj\Release\DriveComboBox.csprojResolveAssemblyReference.cache
+X:\code\C#\CryptoFinder\DriveComboBox\obj\Release\ZinoLib.Windows.Controls.DriveComboBox.resources
+X:\code\C#\CryptoFinder\DriveComboBox\obj\Release\ZinoLib.Windows.Controls.ImageCombo.resources
+X:\code\C#\CryptoFinder\DriveComboBox\obj\Release\DriveComboBox.csproj.GenerateResource.Cache
+X:\code\C#\CryptoFinder\DriveComboBox\obj\Release\DriveComboBox.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\DriveComboBox\bin\Release\DriveComboBox.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\DriveComboBox\obj\Release\ZinoLib.Windows.Controls.DriveComboBox.resources
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\DriveComboBox\obj\Release\ZinoLib.Windows.Controls.ImageCombo.resources
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\DriveComboBox\obj\Release\DriveComboBox.csproj.GenerateResource.Cache
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\DriveComboBox\obj\Release\DriveComboBox.dll

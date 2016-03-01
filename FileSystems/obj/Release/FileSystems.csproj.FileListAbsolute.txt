@@ -1,0 +1,11 @@
+X:\code\C#\CryptoFinder\FileSystems\bin\Release\FileSystems.dll
+X:\code\C#\CryptoFinder\FileSystems\bin\Release\FileSystems.pdb
+X:\code\C#\CryptoFinder\FileSystems\bin\Release\Ionic.Zip.dll
+X:\code\C#\CryptoFinder\FileSystems\obj\Release\FileSystems.csprojResolveAssemblyReference.cache
+X:\code\C#\CryptoFinder\FileSystems\obj\Release\FileSystems.dll
+X:\code\C#\CryptoFinder\FileSystems\obj\Release\FileSystems.pdb
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\FileSystems\bin\Release\FileSystems.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\FileSystems\bin\Release\FileSystems.pdb
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\FileSystems\bin\Release\Ionic.Zip.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\FileSystems\obj\Release\FileSystems.dll
+C:\Users\user\Documents\QubesIncoming\vault\CryptoFinder\FileSystems\obj\Release\FileSystems.pdb
