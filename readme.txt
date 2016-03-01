@@ -1,4 +1,4 @@
-﻿Bitcoin find & recover is a crypto currency recovery tool, that builds on top of the great btcrecover by Gurnec, to help any bitcoin user to recover by themselves their lost passwords.
+﻿Bitcoin find & recover is a crypto currency recovery tool, that builds on top of the great btcrecover by Gurnec https://github.com/gurnec/btcrecover, to help any bitcoin user to recover by themselves their lost passwords.
 Supports all desktop wallets and a few mobile. Should work for most altcoins wallets, forked from the ones listed below.
 
 Automatizes the searching for wallet files, in files existing and deleted.
